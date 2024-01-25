@@ -8,8 +8,7 @@ This is a multi module Android app made for Opening Interview screening, It cons
 It improves the code readability as well as increases the hot build time significantly.
 
 ## Screenshots
-<img width="200" alt="image" src="https://github.com/adarsh-dhakad/opening_assignment/assets/58937745/1712330e-f823-4987-bfb4-ac2a26ac3956
-">
+<img width="200" alt="image" src="https://github.com/adarsh-dhakad/opening_assignment/assets/58937745/1712330e-f823-4987-bfb4-ac2a26ac3956">
 
 <img width="200" alt="image" src="https://github.com/adarsh-dhakad/opening_assignment/assets/58937745/eb6ab6ad-2ea2-42b0-9ee3-cf7a46dfdb1e">
 
