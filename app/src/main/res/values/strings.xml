@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">opening assignment</string>
+    <string name="links">Links</string>
+    <string name="courses">Courses</string>
+    <string name="campaigns">Campaigns</string>
+    <string name="profile">Profile</string>
+    <string name="clicks">Clicks</string>
+    <string name="send_to">Send to\n</string>
+    <string name="whatsapp">WhatsApp\n</string>
+</resources>

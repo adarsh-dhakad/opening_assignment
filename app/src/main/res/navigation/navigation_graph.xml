@@ -1,0 +1,15 @@
+<!-- res/navigation/nav_graph.xml -->
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.opening.openingassignment.ui.fragment.DashboardFragment"
+        android:label="List Products"
+        tools:layout="@layout/fragment_dashboard" >
+
+    </fragment>
+
+</navigation>
